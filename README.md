@@ -1,5 +1,10 @@
 # GRIP-SPARKS-TASK-01
 
+#MACHINE LEARNING
+
+Dataset : http://bit.ly/w-data
+
+
 The objective of the project is to predict the percentage of a student based on the no. of study hours by using simple linear regression method.Also to predict the score if the student studies for 9.25hrs/day.
 
 Steps involved in this Project
